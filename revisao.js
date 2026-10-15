@@ -40,4 +40,3 @@
 // console.log("ativo", ativo)
 // consolo.log("inativo", inativo)
 
-opa

@@ -32,5 +32,12 @@
 // console.log(n1 / n2);
 // console.log(n1 % n2);
 
-console.log(67 == "67");
-console.log(42 === "42");
+// console.log(67 == "67");
+// console.log(42 === "42");
+
+// let ativo = true
+// let inativo = !ativo
+// console.log("ativo", ativo)
+// consolo.log("inativo", inativo)
+
+opa

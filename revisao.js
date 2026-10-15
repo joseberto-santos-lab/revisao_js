@@ -40,3 +40,5 @@
 // console.log("ativo", ativo)
 // consolo.log("inativo", inativo)
 
+// console.log("20" + 5); 
+// console.log(Number("20") + 5);

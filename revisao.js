@@ -90,8 +90,16 @@
 //     console.log("fruta da vez:", frutas);  
 // }
 
-let j = 0;
-while (j = j + 3) {
-    console.log("valor de j:" , j);
-    j++;
-}
+// let j = 0;
+// while (j = j + 3) {
+//     console.log("valor de j:" , j);
+//     j++;
+// }
+
+
+const numeros = [1, 2, 3, 4,];
+const triplo = numeros.map(n => n * 3);
+console.log(triplo);
+const idades = [12, 17, 18, 22, 15, 30];
+const maiores = idades.filter(idade => idade >= 18);
+console.log(maiores);
